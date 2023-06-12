@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3MHFhkhpYpd7Hoi3G7FZ6nPtPk03bLnokjjwomda8HTZ5LrWre+Q5Cts6nV2jEX+7h0yVwx0zxc4EIQEK/Makw==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\kontakt\\PruningTest\\PruningTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tbrehm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tbrehm\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

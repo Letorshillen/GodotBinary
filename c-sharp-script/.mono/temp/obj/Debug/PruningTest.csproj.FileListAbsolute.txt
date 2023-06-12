@@ -1,0 +1,5 @@
+C:\Work\kontakt\PruningTest\.mono\temp\obj\Debug\PruningTest.csproj.AssemblyReference.cache
+C:\Work\kontakt\PruningTest\.mono\temp\obj\Debug\PruningTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\kontakt\PruningTest\.mono\temp\obj\Debug\PruningTest.AssemblyInfoInputs.cache
+C:\Work\kontakt\PruningTest\.mono\temp\obj\Debug\PruningTest.AssemblyInfo.cs
+C:\Work\kontakt\PruningTest\.mono\temp\obj\Debug\PruningTest.csproj.CoreCompileInputs.cache

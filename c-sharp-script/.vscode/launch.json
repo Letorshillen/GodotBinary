@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Framework Launch (console)",
+            "type": "clr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/bin/Debug/net472/PruningTest.exe",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole"
+        },
+    ]
+}

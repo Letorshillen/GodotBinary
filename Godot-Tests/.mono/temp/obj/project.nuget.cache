@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "9E/Lb8xbFjtuwOKvmSr4o863gQXzHwiKd/GvLPvoB3r7/LDKFMBEwG6r8jUelblSclDBXbC258sTAI7PZ3a0rQ==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\kontakt\\Godot-Tests\\Godot-Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tbrehm\\.nuget\\packages\\messagepack\\2.5.108\\messagepack.2.5.108.nupkg.sha512",
+    "C:\\Users\\tbrehm\\.nuget\\packages\\messagepack.annotations\\2.5.108\\messagepack.annotations.2.5.108.nupkg.sha512",
+    "C:\\Users\\tbrehm\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\tbrehm\\.nuget\\packages\\microsoft.net.stringtools\\17.4.0\\microsoft.net.stringtools.17.4.0.nupkg.sha512",
+    "C:\\Users\\tbrehm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\tbrehm\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\tbrehm\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\tbrehm\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\tbrehm\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\tbrehm\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\tbrehm\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\tbrehm\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\tbrehm\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\tbrehm\\.nuget\\packages\\trienet\\1.0.3.26316\\trienet.1.0.3.26316.nupkg.sha512"
+  ],
+  "logs": []
+}

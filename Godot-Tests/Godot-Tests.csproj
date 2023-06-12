@@ -1,0 +1,11 @@
+<Project Sdk="Godot.NET.Sdk/3.3.0">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <RootNamespace>GodotTests</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+      <PackageReference Include="TrieNet" Version="1.0.3.26316"/>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1"/>
+	<PackageReference Include="MessagePack" Version="2.5.108"/>
+</ItemGroup>
+</Project>

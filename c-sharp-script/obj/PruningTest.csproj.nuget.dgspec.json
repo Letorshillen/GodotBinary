@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Work\\kontakt\\scripts-and-tools\\ngram_trie_serialization\\PruningTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Work\\kontakt\\scripts-and-tools\\ngram_trie_serialization\\PruningTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Work\\kontakt\\scripts-and-tools\\ngram_trie_serialization\\PruningTest.csproj",
+        "projectName": "PruningTest",
+        "projectPath": "C:\\Work\\kontakt\\scripts-and-tools\\ngram_trie_serialization\\PruningTest.csproj",
+        "packagesPath": "C:\\Users\\tbrehm\\.nuget\\packages\\",
+        "outputPath": "C:\\Work\\kontakt\\scripts-and-tools\\ngram_trie_serialization\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\tbrehm\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tbrehm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tbrehm\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "MessagePack": {
+              "target": "Package",
+              "version": "[2.5.108, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

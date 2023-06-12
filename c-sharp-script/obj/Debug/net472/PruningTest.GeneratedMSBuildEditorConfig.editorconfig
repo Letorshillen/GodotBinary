@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = PruningTest
+build_property.ProjectDir = C:\Work\kontakt\scripts-and-tools\ngram_trie_serialization\
